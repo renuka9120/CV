@@ -1,0 +1,25 @@
+body{
+  background-color: #f8ede3;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+img{
+  height: 150px;
+}
+img:hover{
+  height: 180px;
+}
+h1{
+  color: #26001b;
+}
+.education{
+  color: #542e71;
+}
+.skills{
+  color: #325288;
+}
